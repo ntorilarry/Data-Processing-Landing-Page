@@ -1,0 +1,18 @@
+.nav-home,.hero-subtext,.feat-font {
+  font-family: "Gilroy", sans-serif;
+}
+
+.hero-heading {
+  font-family: "Inter", sans-serif;
+}
+
+.butfont,.playfont {
+  font-family: "Rubik", sans-serif;
+}
+
+.bgr{
+    background-image: url("../assets/images/bgf.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
