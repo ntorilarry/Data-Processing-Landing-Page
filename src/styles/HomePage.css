@@ -1,4 +1,6 @@
-.nav-home,.hero-subtext,.feat-font {
+.nav-home,
+.hero-subtext,
+.feat-font {
   font-family: "Gilroy", sans-serif;
 }
 
@@ -6,13 +8,49 @@
   font-family: "Inter", sans-serif;
 }
 
-.butfont,.playfont {
+.butfont,
+.playfont {
   font-family: "Rubik", sans-serif;
 }
 
-.bgr{
-    background-image: url("../assets/images/bgf.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.bgr {
+  background-image: url("../assets/images/bgf.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.stat-bg {
+  background-image: url("../assets/images/trafficBG.png");
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: 20%;
+}
+
+.framework-bg{
+  background-image: url("../assets/images/Frame.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 80%;
+}
+
+.business-bg{
+  background-image: url("../assets/images/businessbg.png");
+  background-position: right;
+  background-repeat: no-repeat;
+ 
+}
+
+.info-bg {
+  background-image: url("../assets/images/Group\ 10.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 20%;
+}
+
+.banner-bg {
+  background-image: url("../assets/images/bannerbg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

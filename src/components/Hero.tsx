@@ -5,7 +5,7 @@ import "../styles/HomePage.css";
 
 function Hero() {
   return (
-    <div className="bg-gradient-to-r from-[#131147] to-[#2A1955]">
+    <div>
       <section className="relative py-12">
         <div className="relative px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 gap-y-4 lg:items-center lg:grid-cols-2 xl:grid-cols-2">
@@ -42,7 +42,7 @@ function Hero() {
                       <img src={Play} alt="" />
                     </div>
                   </div>
-                  <div className="flex flex-col items-center md:items-start justify-between flex-grow playfont">
+                  <div className="flex flex-col items-center lg:items-start justify-between flex-grow playfont">
                     <div>
                       <h6 className="mb-2 font-semibold leading-5 text-[#8476AA]">
                         The harder you work for something, the greater you’ll

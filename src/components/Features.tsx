@@ -9,7 +9,7 @@ import Bulb from "../assets/icons/Bulb#1.png";
 
 function Features() {
   return (
-    <div className="bg-gradient-to-r from-[#131147] to-[#2A1955] feat-font">
+    <div className="feat-font">
       <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20 feat-font bgr">
         <div className="max-w-3xl mb-10 sm:mx-auto">
           <h2 className="text-3xl font-bold leading-tight tracking-tight text-[#99EFD0] sm:text-5xl text-center">

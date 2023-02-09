@@ -8,7 +8,7 @@ import Frame5 from "../assets/logo/Frame (5).svg";
 
 function LogoCloud() {
   return (
-    <div className="bg-gradient-to-r from-[#131147] to-[#2A1955]">
+    <div>
          <div className="mx-auto px-4 w-full max-w-7xl text-gray-800">
         <div className="flex flex-col items-center space-y-12">
           <div className="grid grid-cols-6 gap-6">

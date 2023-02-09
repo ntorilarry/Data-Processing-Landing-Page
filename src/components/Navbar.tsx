@@ -5,7 +5,7 @@ import "../styles/HomePage.css";
 function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
-    <div className="bg-gradient-to-r from-[#131147] to-[#2A1955] nav-home">
+    <div className="nav-home">
       <div className="px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
         <div className="relative flex items-center justify-between">
           <div className="flex items-center">
